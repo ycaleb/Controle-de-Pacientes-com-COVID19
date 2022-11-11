@@ -7,6 +7,7 @@ Sistema conta com as funções: Login, Cadastro, Listagem de Cadastros, Listagem
 Para o LOGIN:  usuário efetua login, que tem como padrão:
 
 Login: admin
+
 Senha: 0001
 
 
