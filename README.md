@@ -16,10 +16,7 @@ Senha: 0001
 2)- Opção LISTAR: É exibido ao usuário todos os dados salvos no arquivo de texto "dados.txt".
 
 
-3)- Opção REMOVER: A remoção e alteração de dados pode ser feita diretamente no arquivo de texto "dados.txt", que funciona como um "banco de dados".
-
-
-4)- Opção GRUPO DE RISCO: Exibe ao usuário todos os pacientes maiores de 65 anos e/ou que possuam comorbidades armazenados em outro arquivo de texto, "secretaria.txt".
+3)- Opção GRUPO DE RISCO: Exibe ao usuário todos os pacientes maiores de 65 anos e/ou que possuam comorbidades armazenados em outro arquivo de texto, "secretaria.txt".
 
 
 
