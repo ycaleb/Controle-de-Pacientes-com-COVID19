@@ -14,7 +14,7 @@ Senha: 0001
 1)- Opção CADASTRO: Usuário escolhe a opção cadastro, onde insere os dados pessoais do paciente e seleciona 1 para salvar os dados em um arquivo de texto ou 2 para cancelar o cadastro.
 
 
-2)- Opção LISTAR: É exibido ao usuário todos os dados salvos no arquivo de texto "dados.txt".
+2)- Opção LISTAR: É exibido ao usuário todos os cadastros salvos no arquivo de texto "dados.txt".
 
 
 3)- Opção GRUPO DE RISCO: Exibe ao usuário todos os pacientes maiores de 65 anos e/ou que possuam comorbidades armazenados em outro arquivo de texto, "secretaria.txt".
