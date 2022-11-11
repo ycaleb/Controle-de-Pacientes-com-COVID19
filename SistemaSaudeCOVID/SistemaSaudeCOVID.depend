@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668130696 source:e:\sistemasaudecovid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
